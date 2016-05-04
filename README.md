@@ -1,2 +1,2 @@
-# blog.github.io
+# Blog
 blog for zh@dlmu
